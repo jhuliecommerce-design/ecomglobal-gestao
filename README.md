@@ -1,6 +1,6 @@
 # EcomGlobal Gestão — Escritório de IA
 
-Repositório entregue aos alunos da Mentoria EcomGlobal para montar um escritório operacional com **20 agentes de IA**, divididos em squads e apoiados por skills e base de conhecimento própria.
+Repositório entregue aos alunos da Mentoria EcomGlobal para montar um escritório operacional com **21 agentes de IA**, divididos em squads e apoiados por skills, MCPs e base de conhecimento própria.
 
 ## O que existe aqui
 
@@ -16,7 +16,7 @@ Repositório entregue aos alunos da Mentoria EcomGlobal para montar um escritór
 7. Devoluções & Problemas
 8. Logística & Redundância
 
-### Squad 03 — Performance
+### Squad 03 — Fazedores
 9. Gestor Meta Ads
 10. Gestor Google Ads
 11. Analista Multicanal
@@ -24,7 +24,7 @@ Repositório entregue aos alunos da Mentoria EcomGlobal para montar um escritór
 
 ### Squad 04 — Processos & Gestão
 13. Gestor de Processos
-14. Auditor de Saúde da Operação
+14. Isaura — COO EcomGlobal
 15. Gestor de Equipe
 16. Gestor de Expansão
 
@@ -33,17 +33,25 @@ Repositório entregue aos alunos da Mentoria EcomGlobal para montar um escritór
 18. Estrategista de Criativos DTC
 19. Produtor de Vídeo
 20. Diretor Criativo de Performance
+21. Minerador DTC · ScrollStash
 
 ## Estrutura
 
 ```
-agents/       → os 20 agentes
+agents/       → os 21 agentes
 skills/       → funções reutilizáveis
 knowledge/    → método EcomGlobal
 schemas/      → estrutura de dados
 core/         → instruções compartilhadas e roteamento
-students/     → guia de uso para alunos
+students/     → guias de implementação
 ```
+
+## MCPs usados na aula
+
+### ScrollStash
+`https://mcp.scrollstash.com/mcp`
+
+Usado para mineração DTC, marcas, anúncios, criativos, landers e funis observados.
 
 ## Como um agente deve funcionar
 
@@ -73,6 +81,8 @@ Os agentes devem usar primeiro a base em `knowledge/`. Estruturas da Mentoria Ec
 ## Primeiros arquivos para ler
 
 - `students/QUICKSTART.md`
+- `students/AULA-IMPLEMENTACAO.md`
+- `students/SCROLLSTASH-MCP.md`
 - `core/BASE_INSTRUCTIONS.md`
 - `core/ROUTER.md`
 - `agents/REGISTRY.md`

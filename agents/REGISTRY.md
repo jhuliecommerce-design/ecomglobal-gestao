@@ -1,4 +1,8 @@
-# Registry — 20 Agentes
+# Registry — Escritório EcomGlobal
+
+## Agente de entrada
+**14 Isaura — COO do Escritório EcomGlobal**
+É a interface principal com os mentorados, faz triagem, auditoria e roteamento.
 
 ## Squad Loja
 01 Gestor de Loja
@@ -12,7 +16,7 @@
 07 Devoluções & Problemas
 08 Logística & Redundância
 
-## Squad Performance
+## Squad dos Fazedores
 09 Gestor Meta Ads
 10 Gestor Google Ads
 11 Analista Multicanal
@@ -20,7 +24,7 @@
 
 ## Squad Processos & Gestão
 13 Gestor de Processos
-14 Auditor de Saúde da Operação
+14 Isaura — COO EcomGlobal
 15 Gestor de Equipe
 16 Gestor de Expansão
 

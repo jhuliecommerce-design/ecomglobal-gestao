@@ -1,4 +1,7 @@
-# Router — Qual agente chamar?
+# Router — Escritório EcomGlobal
+
+## Entrada padrão
+O mentorado começa pela **Isaura — COO EcomGlobal** quando não souber qual agente usar.
 
 ## Loja
 Problema geral de loja → 01 Gestor de Loja
@@ -12,7 +15,7 @@ Cotação → 06 Gestor de Cotações
 Devolução/reembolso → 07 Devoluções & Problemas
 Logística/backup → 08 Logística & Redundância
 
-## Performance
+## Squad dos Fazedores
 Meta → 09 Gestor Meta Ads
 Google → 10 Gestor Google Ads
 Meta + Google + Shopify → 11 Analista Multicanal
@@ -20,7 +23,7 @@ Onde alocar capital → 12 Gestor de Escala & Capital
 
 ## Gestão
 Documentar rotina → 13 Gestor de Processos
-Check-up geral → 14 Auditor de Saúde
+Triagem/check-up geral → 14 Isaura
 Equipe → 15 Gestor de Equipe
 Nova loja/mercado → 16 Gestor de Expansão
 

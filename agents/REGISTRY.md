@@ -33,3 +33,4 @@
 18 Estrategista de Criativos DTC
 19 Produtor de Vídeo
 20 Diretor Criativo de Performance
+21 Minerador DTC · ScrollStash

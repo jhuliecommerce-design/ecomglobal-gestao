@@ -32,3 +32,4 @@ Advertorial → 17 Especialista em Advertorial
 Matriz criativa → 18 Estrategista DTC
 Vídeo → 19 Produtor de Vídeo
 Direção semanal de criativos → 20 Diretor Criativo
+Mineração DTC via ScrollStash → 21 Minerador DTC
